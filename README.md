@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Fullstack web and mobile and computer enginner
 <a  href = "https://github.com/Eliasisac" target = "blank">
   
-![Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliasisac&hide=contribs,prs )
-![Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliasisac&show_icons=true&theme=blue_navy)
+![Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliasisac&hide=contribs,prs&theme=blue_navy)
+![Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliasisac&show_icons=true&theme=blue_navy )
 <br>
 <img align = "center"  width = "50" large ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img align = "center" width = "50" large ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
