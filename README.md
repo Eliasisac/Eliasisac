@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Tecnical Suport
 - 🌱 I’m currently learning Fullstack web and mobile and computer enginner
-<a  href = "https://github.com/Eliasisac" target = blank >
+<a  href = "https://github.com/Eliasisac" target = "blank">
   
 ![Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliasisac&hide=contribs,prs )
 ![Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliasisac&show_icons=true&theme=blue_navy)
