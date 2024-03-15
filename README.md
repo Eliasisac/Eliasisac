@@ -12,7 +12,8 @@
 <img align = "center" width = "50" large ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <img align = "center" width = "50" large ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 <img align = "center" width = "50" large ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
-                   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliasisac)](https://github.com/Eliasisac/github-readme-stats)
+                  
                     
 
 <!--
